@@ -9,4 +9,4 @@ Notions:
 Suivre l'exemple de l'image:  
 ![image d'exemple à suivre][image du rendue]  
 
-[image du rendue]: ressources/img/forms_exemple.png
+[image du rendue]: ressources/images/forms_exemple.png
